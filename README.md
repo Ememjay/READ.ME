@@ -73,7 +73,7 @@ The data processing involves cleaning the dataset to remove any inconsistencies,
 1. Database Setup: Created a PostgreSQL database and table to store the cleaned data.
 2. Data Ingestion: Imported the cleaned CSV file into PostgreSQL tables.
 3. Data Transformation: Used SQL queries to aggregate data, and create new calculated fields.
-4. SQL queries performed: All SQL queries performed can be found here  SQL script.
+4. SQL queries performed: All SQL queries performed can be found [here](https://github.com/Ememjay/READ.ME/blob/main/SQL_Script)
 5. Export Transformed Data: Exported the transformed data as CSV file for visualization in Power BI.
    
 ### Power BI
