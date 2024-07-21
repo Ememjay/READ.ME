@@ -64,7 +64,7 @@ The data processing involves cleaning the dataset to remove any inconsistencies,
    
 3. Basic Analysis:
       -	Calculated summary statistics (e.g., average goals per players, distribution of market value).
-      -	Created pivot tables for initial insights (e.g., goals by country).
+      -	Created pivot tables for initial insights. [Pivot_chart](https://github.com/Ememjay/READ.ME/blob/main/excel_pivot%20chart.PNG)
    
 4. Export Clean Data: Exported the cleaned data as a CSV file for further processing in PostgreSQL.
    
