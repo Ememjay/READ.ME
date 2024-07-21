@@ -99,7 +99,7 @@ The data processing involves cleaning the dataset to remove any inconsistencies,
 
 The analysis of the UEFA European Championship  dataset provided valuable insights into player performance and characteristics. Using Excel for initial data cleaning, PostgreSQL for complex data transformation, and Power BI for visualization, I was able to uncover trends and present them in an interactive manner.
 
-License
+# License
 
-This project is licensed under the MIT License. See the LINCENSE file for details. 
+This project is licensed under the MIT License. See the [LINCENSE](https://github.com/Ememjay/READ.ME/blob/main/LICENSE) file for details. 
 
