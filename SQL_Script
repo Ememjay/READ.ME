@@ -1,0 +1,37 @@
+create table euro2024 
+( Players_Name varchar(100),
+ Position varchar(100),
+ Age_range varchar(50),
+ Club varchar(100),
+ Height int,
+ Foot varchar(50),
+ Caps int,
+ Goals int,
+ market_valueindollar int,
+ Country varchar(100)
+);
+
+SELECT count(players_name) 	
+FROM euro2024
+ 
+SELECT players_name, goals 	
+FROM euro2024
+ORDER BY goals 
+LIMIT 30
+
+SELECT * FROM euro2024
+WHERE players_name LIKE 'J%'  
+
+SELECT * FROM euro2024
+WHERE caps = '5' OR goals = '10'  
+
+SELECT country, count (*) AS Num_players
+FROM euro2024
+GROUP BY country
+ORDER BY country
+
+SELECT players_name
+FROM euro2024
+WHERE foot = 'both'
+
+
