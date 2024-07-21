@@ -83,7 +83,7 @@ The data processing involves cleaning the dataset to remove any inconsistencies,
 3. Visualization:
     - Designed interactive dashboards to visualize key metrics
     - Example of visualizations created: Total Caps and  total goals scored by players, Market value distribution by player position e.t.c.
-4. Insights: Used Power BI features like filters, and slicers to explore the data
+4. Insights: Used Power BI features like filters, and slicers to explore the data. Insight can be found [here](https://github.com/Ememjay/READ.ME/blob/main/Power%20BI%20Dashboard)
    
 ## Key Insights
 
