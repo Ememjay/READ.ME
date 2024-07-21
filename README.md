@@ -32,8 +32,8 @@ This project focuses on the analysis of the UEFA European Championship 2024  dat
 The ideal end user of the UEFA European Championship data analysis is the Chief Data Officer of a major sports company, specifically focusing on football coverage . This executive is tasked with optimizing the company’s content strategy to ensure both engagement and informational values across various platforms, including digital and social media.
 
 ## Dataset
-This dataset contains 623 players with 7 attributes including 
-Player Name, Country, Foot, Goals , Age Range, Club, Market Value and .
+This dataset contains 623 players with 8 attributes including 
+Player Name, caps, Foot, Goals , Age Range, Club, Market Value and Country
 
 ## Data Processing
 
