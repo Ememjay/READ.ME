@@ -6,26 +6,26 @@ This project focuses on the analysis of the UEFA European Championship 2024  dat
 
 # Table of Contents
 
--	Introduction
+-	[Introduction](#introduction)
 
--	Client
+-	[Client](#client)
 
--	Dataset
+-	[Dataset](#dataset)
   
-- Data Processing
+- [Data Processing](#data-processing)
   
--	Tools used
+-	[Tools used](#tools-used)
 
--	Data analysis steps
-     - Excel
-     - PostgreSQL
-     - Power BI
+-	[Data analysis steps](#data-analysis-steps)
+     - [Excel](#excel)
+     - [PostgreSQL](#postgresql)
+     - [Power BI](#power-bi)
      
--	Key Insights
+-	[Key Insights](#key-insights)
 
--	Conclusion
+-	[Conclusion](#conclusion)
 
--	License
+-	[License](#license)
 
 # Client
 
